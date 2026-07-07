@@ -1,0 +1,31 @@
+fazaa-ai/
+├── public/
+│   └── favicon.svg
+├── src/
+│   ├── app/
+│   │   ├── (marketing)/
+│   │   │   ├── about/page.tsx
+│   │   │   ├── contact/page.tsx
+│   │   │   ├── privacy/page.tsx
+│   │   │   └── page.tsx
+│   │   ├── (platform)/
+│   │   │   ├── solve/page.tsx
+│   │   │   └── teacher-dashboard/page.tsx
+│   │   ├── layout.tsx
+│   │   ├── globals.css
+│   │   └── loading.tsx
+│   ├── components/
+│   │   ├── ui/
+│   │   │   └── button.tsx
+│   │   ├── chatbot-widget.tsx
+│   │   ├── footer.tpackage│   ├── loading-skeleton.tsx
+│   │   └── navbar.tsx
+│   └── lib/
+│       └── utils.ts
+├── .gitignore
+├── next.config.js
+── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.json
+└── README.md
